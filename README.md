@@ -1,4 +1,4 @@
-This project was done as a part of the IT Minor Course 
+This project was done as the IT Minor Course Project
 
 Team Members
 
